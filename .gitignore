@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+music/
+papers/
+single_track_features.csv
+single_track_features.json
+test.py
